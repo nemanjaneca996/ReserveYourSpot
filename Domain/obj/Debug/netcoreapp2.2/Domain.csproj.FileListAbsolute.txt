@@ -1,0 +1,44 @@
+C:\Users\Nemanja\source\repos\ReserveYourSpot\Domain\bin\Debug\netcoreapp2.2\Domain.deps.json
+C:\Users\Nemanja\source\repos\ReserveYourSpot\Domain\bin\Debug\netcoreapp2.2\Domain.runtimeconfig.json
+C:\Users\Nemanja\source\repos\ReserveYourSpot\Domain\bin\Debug\netcoreapp2.2\Domain.runtimeconfig.dev.json
+C:\Users\Nemanja\source\repos\ReserveYourSpot\Domain\bin\Debug\netcoreapp2.2\Domain.dll
+C:\Users\Nemanja\source\repos\ReserveYourSpot\Domain\bin\Debug\netcoreapp2.2\Domain.pdb
+C:\Users\Nemanja\source\repos\ReserveYourSpot\Domain\obj\Debug\netcoreapp2.2\Domain.csprojAssemblyReference.cache
+C:\Users\Nemanja\source\repos\ReserveYourSpot\Domain\obj\Debug\netcoreapp2.2\Domain.csproj.CoreCompileInputs.cache
+C:\Users\Nemanja\source\repos\ReserveYourSpot\Domain\obj\Debug\netcoreapp2.2\Domain.AssemblyInfoInputs.cache
+C:\Users\Nemanja\source\repos\ReserveYourSpot\Domain\obj\Debug\netcoreapp2.2\Domain.AssemblyInfo.cs
+C:\Users\Nemanja\source\repos\ReserveYourSpot\Domain\obj\Debug\netcoreapp2.2\Domain.dll
+C:\Users\Nemanja\source\repos\ReserveYourSpot\Domain\obj\Debug\netcoreapp2.2\Domain.pdb
+C:\Users\Nemanja\Desktop\projects\ReserveYourSpot\Domain\bin\Debug\netcoreapp2.2\Domain.deps.json
+C:\Users\Nemanja\Desktop\projects\ReserveYourSpot\Domain\bin\Debug\netcoreapp2.2\Domain.runtimeconfig.json
+C:\Users\Nemanja\Desktop\projects\ReserveYourSpot\Domain\bin\Debug\netcoreapp2.2\Domain.runtimeconfig.dev.json
+C:\Users\Nemanja\Desktop\projects\ReserveYourSpot\Domain\bin\Debug\netcoreapp2.2\Domain.dll
+C:\Users\Nemanja\Desktop\projects\ReserveYourSpot\Domain\bin\Debug\netcoreapp2.2\Domain.pdb
+C:\Users\Nemanja\Desktop\projects\ReserveYourSpot\Domain\obj\Debug\netcoreapp2.2\Domain.csprojAssemblyReference.cache
+C:\Users\Nemanja\Desktop\projects\ReserveYourSpot\Domain\obj\Debug\netcoreapp2.2\Domain.csproj.CoreCompileInputs.cache
+C:\Users\Nemanja\Desktop\projects\ReserveYourSpot\Domain\obj\Debug\netcoreapp2.2\Domain.AssemblyInfoInputs.cache
+C:\Users\Nemanja\Desktop\projects\ReserveYourSpot\Domain\obj\Debug\netcoreapp2.2\Domain.AssemblyInfo.cs
+C:\Users\Nemanja\Desktop\projects\ReserveYourSpot\Domain\obj\Debug\netcoreapp2.2\Domain.dll
+C:\Users\Nemanja\Desktop\projects\ReserveYourSpot\Domain\obj\Debug\netcoreapp2.2\Domain.pdb
+C:\Users\Nemanja\Desktop\projects\New folder\Domain\bin\Debug\netcoreapp2.2\Domain.deps.json
+C:\Users\Nemanja\Desktop\projects\New folder\Domain\bin\Debug\netcoreapp2.2\Domain.runtimeconfig.json
+C:\Users\Nemanja\Desktop\projects\New folder\Domain\bin\Debug\netcoreapp2.2\Domain.runtimeconfig.dev.json
+C:\Users\Nemanja\Desktop\projects\New folder\Domain\bin\Debug\netcoreapp2.2\Domain.dll
+C:\Users\Nemanja\Desktop\projects\New folder\Domain\bin\Debug\netcoreapp2.2\Domain.pdb
+C:\Users\Nemanja\Desktop\projects\New folder\Domain\obj\Debug\netcoreapp2.2\Domain.csprojAssemblyReference.cache
+C:\Users\Nemanja\Desktop\projects\New folder\Domain\obj\Debug\netcoreapp2.2\Domain.csproj.CoreCompileInputs.cache
+C:\Users\Nemanja\Desktop\projects\New folder\Domain\obj\Debug\netcoreapp2.2\Domain.AssemblyInfoInputs.cache
+C:\Users\Nemanja\Desktop\projects\New folder\Domain\obj\Debug\netcoreapp2.2\Domain.AssemblyInfo.cs
+C:\Users\Nemanja\Desktop\projects\New folder\Domain\obj\Debug\netcoreapp2.2\Domain.dll
+C:\Users\Nemanja\Desktop\projects\New folder\Domain\obj\Debug\netcoreapp2.2\Domain.pdb
+C:\Users\Nemanja\Desktop\Projekat\Domain\bin\Debug\netcoreapp2.2\Domain.deps.json
+C:\Users\Nemanja\Desktop\Projekat\Domain\bin\Debug\netcoreapp2.2\Domain.runtimeconfig.json
+C:\Users\Nemanja\Desktop\Projekat\Domain\bin\Debug\netcoreapp2.2\Domain.runtimeconfig.dev.json
+C:\Users\Nemanja\Desktop\Projekat\Domain\bin\Debug\netcoreapp2.2\Domain.dll
+C:\Users\Nemanja\Desktop\Projekat\Domain\bin\Debug\netcoreapp2.2\Domain.pdb
+C:\Users\Nemanja\Desktop\Projekat\Domain\obj\Debug\netcoreapp2.2\Domain.csprojAssemblyReference.cache
+C:\Users\Nemanja\Desktop\Projekat\Domain\obj\Debug\netcoreapp2.2\Domain.csproj.CoreCompileInputs.cache
+C:\Users\Nemanja\Desktop\Projekat\Domain\obj\Debug\netcoreapp2.2\Domain.AssemblyInfoInputs.cache
+C:\Users\Nemanja\Desktop\Projekat\Domain\obj\Debug\netcoreapp2.2\Domain.AssemblyInfo.cs
+C:\Users\Nemanja\Desktop\Projekat\Domain\obj\Debug\netcoreapp2.2\Domain.dll
+C:\Users\Nemanja\Desktop\Projekat\Domain\obj\Debug\netcoreapp2.2\Domain.pdb

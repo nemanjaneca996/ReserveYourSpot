@@ -1,0 +1,9 @@
+C:\Users\Nemanja\source\repos\ReserveYourSpot\EfCommands\bin\Debug\netcoreapp2.1\EfCommands.deps.json
+C:\Users\Nemanja\source\repos\ReserveYourSpot\EfCommands\bin\Debug\netcoreapp2.1\EfCommands.dll
+C:\Users\Nemanja\source\repos\ReserveYourSpot\EfCommands\bin\Debug\netcoreapp2.1\EfCommands.pdb
+C:\Users\Nemanja\source\repos\ReserveYourSpot\EfCommands\obj\Debug\netcoreapp2.1\EfCommands.csprojAssemblyReference.cache
+C:\Users\Nemanja\source\repos\ReserveYourSpot\EfCommands\obj\Debug\netcoreapp2.1\EfCommands.csproj.CoreCompileInputs.cache
+C:\Users\Nemanja\source\repos\ReserveYourSpot\EfCommands\obj\Debug\netcoreapp2.1\EfCommands.AssemblyInfoInputs.cache
+C:\Users\Nemanja\source\repos\ReserveYourSpot\EfCommands\obj\Debug\netcoreapp2.1\EfCommands.AssemblyInfo.cs
+C:\Users\Nemanja\source\repos\ReserveYourSpot\EfCommands\obj\Debug\netcoreapp2.1\EfCommands.dll
+C:\Users\Nemanja\source\repos\ReserveYourSpot\EfCommands\obj\Debug\netcoreapp2.1\EfCommands.pdb

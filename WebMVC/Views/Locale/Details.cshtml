@@ -1,0 +1,109 @@
+﻿@model Application.DTO.ShowLocaleDto
+
+@{
+    ViewData["Title"] = "Details";
+}
+
+<h1>Details</h1>
+
+<div>
+    <h4>ShowLocaleDto</h4>
+    <hr />
+    <dl class="row">
+        @if (Model.Photos.Count() > 0)
+        {
+            <dt class="col-sm-2">
+                Photos
+            </dt>
+            <dd class="col-sm-10">
+                @foreach (var m in Model.Photos)
+                {
+                    <img src="/API/wwwroot/@m.Path" alt="@m.Name"/>
+                }
+            </dd>
+        }
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.Name)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.Name)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.Address)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.Address)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.Phone)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.Phone)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.Mobile)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.Mobile)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.EmailInfo)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.EmailInfo)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.Facebook)
+        </dt>
+        <dd class="col-sm-10">
+            <a href="@Model.Facebook">link</a>
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.Instagram)
+        </dt>
+        <dd class="col-sm-10">
+            <a href="@Model.Instagram">link</a>
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.GoogleLocation)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.GoogleLocation)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.LocaleTypeName)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.LocaleTypeName)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.CityName)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.CityName)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.Description)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.Description)
+        </dd>
+        @if (Model.Menus.Count() > 0)
+        {
+            <dt class="col-sm-2">
+                Menus
+            </dt>
+            <dd class="col-sm-10">
+                @foreach (var m in Model.Menus)
+                {
+                    <a href="../../API/wwwroot/@m.Path">Meni</a>
+                }
+            </dd>
+        }
+    </dl>
+</div>
+
+<div>
+    @Html.ActionLink("Edit", "Edit", new { id = Model.Id }) |
+    <a asp-action="Index">Back to List</a>
+</div>

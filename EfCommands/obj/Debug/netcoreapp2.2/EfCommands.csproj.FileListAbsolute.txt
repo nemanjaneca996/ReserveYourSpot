@@ -1,0 +1,64 @@
+C:\Users\Nemanja\source\repos\ReserveYourSpot\EfCommands\bin\Debug\netcoreapp2.2\EfCommands.deps.json
+C:\Users\Nemanja\source\repos\ReserveYourSpot\EfCommands\bin\Debug\netcoreapp2.2\EfCommands.dll
+C:\Users\Nemanja\source\repos\ReserveYourSpot\EfCommands\bin\Debug\netcoreapp2.2\EfCommands.pdb
+C:\Users\Nemanja\source\repos\ReserveYourSpot\EfCommands\obj\Debug\netcoreapp2.2\EfCommands.csproj.CoreCompileInputs.cache
+C:\Users\Nemanja\source\repos\ReserveYourSpot\EfCommands\obj\Debug\netcoreapp2.2\EfCommands.AssemblyInfoInputs.cache
+C:\Users\Nemanja\source\repos\ReserveYourSpot\EfCommands\obj\Debug\netcoreapp2.2\EfCommands.AssemblyInfo.cs
+C:\Users\Nemanja\source\repos\ReserveYourSpot\EfCommands\obj\Debug\netcoreapp2.2\EfCommands.dll
+C:\Users\Nemanja\source\repos\ReserveYourSpot\EfCommands\obj\Debug\netcoreapp2.2\EfCommands.pdb
+C:\Users\Nemanja\source\repos\ReserveYourSpot\EfCommands\bin\Debug\netcoreapp2.2\Application.dll
+C:\Users\Nemanja\source\repos\ReserveYourSpot\EfCommands\bin\Debug\netcoreapp2.2\Domain.dll
+C:\Users\Nemanja\source\repos\ReserveYourSpot\EfCommands\bin\Debug\netcoreapp2.2\EfDataAccess.dll
+C:\Users\Nemanja\source\repos\ReserveYourSpot\EfCommands\bin\Debug\netcoreapp2.2\Application.pdb
+C:\Users\Nemanja\source\repos\ReserveYourSpot\EfCommands\bin\Debug\netcoreapp2.2\EfDataAccess.pdb
+C:\Users\Nemanja\source\repos\ReserveYourSpot\EfCommands\bin\Debug\netcoreapp2.2\Domain.pdb
+C:\Users\Nemanja\source\repos\ReserveYourSpot\EfCommands\obj\Debug\netcoreapp2.2\EfCommands.csprojAssemblyReference.cache
+C:\Users\Nemanja\source\repos\ReserveYourSpot\EfCommands\obj\Debug\netcoreapp2.2\EfCommands.csproj.CopyComplete
+C:\Users\Nemanja\Desktop\projects\ReserveYourSpot\EfCommands\bin\Debug\netcoreapp2.2\EfCommands.deps.json
+C:\Users\Nemanja\Desktop\projects\ReserveYourSpot\EfCommands\bin\Debug\netcoreapp2.2\EfCommands.dll
+C:\Users\Nemanja\Desktop\projects\ReserveYourSpot\EfCommands\bin\Debug\netcoreapp2.2\EfCommands.pdb
+C:\Users\Nemanja\Desktop\projects\ReserveYourSpot\EfCommands\bin\Debug\netcoreapp2.2\Application.dll
+C:\Users\Nemanja\Desktop\projects\ReserveYourSpot\EfCommands\bin\Debug\netcoreapp2.2\Domain.dll
+C:\Users\Nemanja\Desktop\projects\ReserveYourSpot\EfCommands\bin\Debug\netcoreapp2.2\EfDataAccess.dll
+C:\Users\Nemanja\Desktop\projects\ReserveYourSpot\EfCommands\bin\Debug\netcoreapp2.2\Application.pdb
+C:\Users\Nemanja\Desktop\projects\ReserveYourSpot\EfCommands\bin\Debug\netcoreapp2.2\EfDataAccess.pdb
+C:\Users\Nemanja\Desktop\projects\ReserveYourSpot\EfCommands\bin\Debug\netcoreapp2.2\Domain.pdb
+C:\Users\Nemanja\Desktop\projects\ReserveYourSpot\EfCommands\obj\Debug\netcoreapp2.2\EfCommands.csprojAssemblyReference.cache
+C:\Users\Nemanja\Desktop\projects\ReserveYourSpot\EfCommands\obj\Debug\netcoreapp2.2\EfCommands.csproj.CoreCompileInputs.cache
+C:\Users\Nemanja\Desktop\projects\ReserveYourSpot\EfCommands\obj\Debug\netcoreapp2.2\EfCommands.AssemblyInfoInputs.cache
+C:\Users\Nemanja\Desktop\projects\ReserveYourSpot\EfCommands\obj\Debug\netcoreapp2.2\EfCommands.AssemblyInfo.cs
+C:\Users\Nemanja\Desktop\projects\ReserveYourSpot\EfCommands\obj\Debug\netcoreapp2.2\EfCommands.csproj.CopyComplete
+C:\Users\Nemanja\Desktop\projects\ReserveYourSpot\EfCommands\obj\Debug\netcoreapp2.2\EfCommands.dll
+C:\Users\Nemanja\Desktop\projects\ReserveYourSpot\EfCommands\obj\Debug\netcoreapp2.2\EfCommands.pdb
+C:\Users\Nemanja\Desktop\projects\New folder\EfCommands\bin\Debug\netcoreapp2.2\EfCommands.deps.json
+C:\Users\Nemanja\Desktop\projects\New folder\EfCommands\bin\Debug\netcoreapp2.2\EfCommands.dll
+C:\Users\Nemanja\Desktop\projects\New folder\EfCommands\bin\Debug\netcoreapp2.2\EfCommands.pdb
+C:\Users\Nemanja\Desktop\projects\New folder\EfCommands\bin\Debug\netcoreapp2.2\Application.dll
+C:\Users\Nemanja\Desktop\projects\New folder\EfCommands\bin\Debug\netcoreapp2.2\Domain.dll
+C:\Users\Nemanja\Desktop\projects\New folder\EfCommands\bin\Debug\netcoreapp2.2\EfDataAccess.dll
+C:\Users\Nemanja\Desktop\projects\New folder\EfCommands\bin\Debug\netcoreapp2.2\Application.pdb
+C:\Users\Nemanja\Desktop\projects\New folder\EfCommands\bin\Debug\netcoreapp2.2\EfDataAccess.pdb
+C:\Users\Nemanja\Desktop\projects\New folder\EfCommands\bin\Debug\netcoreapp2.2\Domain.pdb
+C:\Users\Nemanja\Desktop\projects\New folder\EfCommands\obj\Debug\netcoreapp2.2\EfCommands.csprojAssemblyReference.cache
+C:\Users\Nemanja\Desktop\projects\New folder\EfCommands\obj\Debug\netcoreapp2.2\EfCommands.csproj.CoreCompileInputs.cache
+C:\Users\Nemanja\Desktop\projects\New folder\EfCommands\obj\Debug\netcoreapp2.2\EfCommands.AssemblyInfoInputs.cache
+C:\Users\Nemanja\Desktop\projects\New folder\EfCommands\obj\Debug\netcoreapp2.2\EfCommands.AssemblyInfo.cs
+C:\Users\Nemanja\Desktop\projects\New folder\EfCommands\obj\Debug\netcoreapp2.2\EfCommands.csproj.CopyComplete
+C:\Users\Nemanja\Desktop\projects\New folder\EfCommands\obj\Debug\netcoreapp2.2\EfCommands.dll
+C:\Users\Nemanja\Desktop\projects\New folder\EfCommands\obj\Debug\netcoreapp2.2\EfCommands.pdb
+C:\Users\Nemanja\Desktop\Projekat\EfCommands\bin\Debug\netcoreapp2.2\EfCommands.deps.json
+C:\Users\Nemanja\Desktop\Projekat\EfCommands\bin\Debug\netcoreapp2.2\EfCommands.dll
+C:\Users\Nemanja\Desktop\Projekat\EfCommands\bin\Debug\netcoreapp2.2\EfCommands.pdb
+C:\Users\Nemanja\Desktop\Projekat\EfCommands\bin\Debug\netcoreapp2.2\Application.dll
+C:\Users\Nemanja\Desktop\Projekat\EfCommands\bin\Debug\netcoreapp2.2\Domain.dll
+C:\Users\Nemanja\Desktop\Projekat\EfCommands\bin\Debug\netcoreapp2.2\EfDataAccess.dll
+C:\Users\Nemanja\Desktop\Projekat\EfCommands\bin\Debug\netcoreapp2.2\Application.pdb
+C:\Users\Nemanja\Desktop\Projekat\EfCommands\bin\Debug\netcoreapp2.2\EfDataAccess.pdb
+C:\Users\Nemanja\Desktop\Projekat\EfCommands\bin\Debug\netcoreapp2.2\Domain.pdb
+C:\Users\Nemanja\Desktop\Projekat\EfCommands\obj\Debug\netcoreapp2.2\EfCommands.csprojAssemblyReference.cache
+C:\Users\Nemanja\Desktop\Projekat\EfCommands\obj\Debug\netcoreapp2.2\EfCommands.csproj.CoreCompileInputs.cache
+C:\Users\Nemanja\Desktop\Projekat\EfCommands\obj\Debug\netcoreapp2.2\EfCommands.AssemblyInfoInputs.cache
+C:\Users\Nemanja\Desktop\Projekat\EfCommands\obj\Debug\netcoreapp2.2\EfCommands.AssemblyInfo.cs
+C:\Users\Nemanja\Desktop\Projekat\EfCommands\obj\Debug\netcoreapp2.2\EfCommands.csproj.CopyComplete
+C:\Users\Nemanja\Desktop\Projekat\EfCommands\obj\Debug\netcoreapp2.2\EfCommands.dll
+C:\Users\Nemanja\Desktop\Projekat\EfCommands\obj\Debug\netcoreapp2.2\EfCommands.pdb

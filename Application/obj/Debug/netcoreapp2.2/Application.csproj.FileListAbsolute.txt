@@ -1,0 +1,50 @@
+C:\Users\Nemanja\source\repos\ReserveYourSpot\Application\bin\Debug\netcoreapp2.2\Application.deps.json
+C:\Users\Nemanja\source\repos\ReserveYourSpot\Application\bin\Debug\netcoreapp2.2\Application.dll
+C:\Users\Nemanja\source\repos\ReserveYourSpot\Application\bin\Debug\netcoreapp2.2\Application.pdb
+C:\Users\Nemanja\source\repos\ReserveYourSpot\Application\obj\Debug\netcoreapp2.2\Application.csprojAssemblyReference.cache
+C:\Users\Nemanja\source\repos\ReserveYourSpot\Application\obj\Debug\netcoreapp2.2\Application.csproj.CoreCompileInputs.cache
+C:\Users\Nemanja\source\repos\ReserveYourSpot\Application\obj\Debug\netcoreapp2.2\Application.AssemblyInfoInputs.cache
+C:\Users\Nemanja\source\repos\ReserveYourSpot\Application\obj\Debug\netcoreapp2.2\Application.AssemblyInfo.cs
+C:\Users\Nemanja\source\repos\ReserveYourSpot\Application\obj\Debug\netcoreapp2.2\Application.dll
+C:\Users\Nemanja\source\repos\ReserveYourSpot\Application\obj\Debug\netcoreapp2.2\Application.pdb
+C:\Users\Nemanja\source\repos\ReserveYourSpot\Application\bin\Debug\netcoreapp2.2\Microsoft.AspNetCore.Http.Features.dll
+C:\Users\Nemanja\source\repos\ReserveYourSpot\Application\bin\Debug\netcoreapp2.2\Microsoft.AspNetCore.Http.Features.xml
+C:\Users\Nemanja\source\repos\ReserveYourSpot\Application\obj\Debug\netcoreapp2.2\Application.csproj.CopyComplete
+C:\Users\Nemanja\Desktop\projects\ReserveYourSpot\Application\bin\Debug\netcoreapp2.2\Application.deps.json
+C:\Users\Nemanja\Desktop\projects\ReserveYourSpot\Application\bin\Debug\netcoreapp2.2\Application.dll
+C:\Users\Nemanja\Desktop\projects\ReserveYourSpot\Application\bin\Debug\netcoreapp2.2\Application.pdb
+C:\Users\Nemanja\Desktop\projects\ReserveYourSpot\Application\bin\Debug\netcoreapp2.2\Microsoft.AspNetCore.Http.Features.dll
+C:\Users\Nemanja\Desktop\projects\ReserveYourSpot\Application\bin\Debug\netcoreapp2.2\Microsoft.AspNetCore.Http.Features.xml
+C:\Users\Nemanja\Desktop\projects\ReserveYourSpot\Application\obj\Debug\netcoreapp2.2\Application.csprojAssemblyReference.cache
+C:\Users\Nemanja\Desktop\projects\ReserveYourSpot\Application\obj\Debug\netcoreapp2.2\Application.csproj.CoreCompileInputs.cache
+C:\Users\Nemanja\Desktop\projects\ReserveYourSpot\Application\obj\Debug\netcoreapp2.2\Application.AssemblyInfoInputs.cache
+C:\Users\Nemanja\Desktop\projects\ReserveYourSpot\Application\obj\Debug\netcoreapp2.2\Application.AssemblyInfo.cs
+C:\Users\Nemanja\Desktop\projects\ReserveYourSpot\Application\obj\Debug\netcoreapp2.2\Application.csproj.CopyComplete
+C:\Users\Nemanja\Desktop\projects\ReserveYourSpot\Application\obj\Debug\netcoreapp2.2\Application.dll
+C:\Users\Nemanja\Desktop\projects\ReserveYourSpot\Application\obj\Debug\netcoreapp2.2\Application.pdb
+C:\Users\Nemanja\Desktop\projects\New folder\Application\bin\Debug\netcoreapp2.2\Application.deps.json
+C:\Users\Nemanja\Desktop\projects\New folder\Application\bin\Debug\netcoreapp2.2\Application.dll
+C:\Users\Nemanja\Desktop\projects\New folder\Application\bin\Debug\netcoreapp2.2\Application.pdb
+C:\Users\Nemanja\Desktop\projects\New folder\Application\bin\Debug\netcoreapp2.2\Microsoft.AspNetCore.Http.Features.dll
+C:\Users\Nemanja\Desktop\projects\New folder\Application\bin\Debug\netcoreapp2.2\Microsoft.AspNetCore.Http.Features.xml
+C:\Users\Nemanja\Desktop\projects\New folder\Application\obj\Debug\netcoreapp2.2\Application.csprojAssemblyReference.cache
+C:\Users\Nemanja\Desktop\projects\New folder\Application\obj\Debug\netcoreapp2.2\Application.csproj.CoreCompileInputs.cache
+C:\Users\Nemanja\Desktop\projects\New folder\Application\obj\Debug\netcoreapp2.2\Application.AssemblyInfoInputs.cache
+C:\Users\Nemanja\Desktop\projects\New folder\Application\obj\Debug\netcoreapp2.2\Application.AssemblyInfo.cs
+C:\Users\Nemanja\Desktop\projects\New folder\Application\obj\Debug\netcoreapp2.2\Application.csproj.CopyComplete
+C:\Users\Nemanja\Desktop\projects\New folder\Application\obj\Debug\netcoreapp2.2\Application.dll
+C:\Users\Nemanja\Desktop\projects\New folder\Application\obj\Debug\netcoreapp2.2\Application.pdb
+C:\Users\Nemanja\Desktop\Projekat\Application\bin\Debug\netcoreapp2.2\Application.deps.json
+C:\Users\Nemanja\Desktop\Projekat\Application\bin\Debug\netcoreapp2.2\Application.dll
+C:\Users\Nemanja\Desktop\Projekat\Application\bin\Debug\netcoreapp2.2\Application.pdb
+C:\Users\Nemanja\Desktop\Projekat\Application\bin\Debug\netcoreapp2.2\Microsoft.AspNetCore.Http.Features.dll
+C:\Users\Nemanja\Desktop\Projekat\Application\bin\Debug\netcoreapp2.2\Microsoft.AspNetCore.Http.Features.xml
+C:\Users\Nemanja\Desktop\Projekat\Application\obj\Debug\netcoreapp2.2\Application.csprojAssemblyReference.cache
+C:\Users\Nemanja\Desktop\Projekat\Application\obj\Debug\netcoreapp2.2\Application.csproj.CoreCompileInputs.cache
+C:\Users\Nemanja\Desktop\Projekat\Application\obj\Debug\netcoreapp2.2\Application.AssemblyInfoInputs.cache
+C:\Users\Nemanja\Desktop\Projekat\Application\obj\Debug\netcoreapp2.2\Application.AssemblyInfo.cs
+C:\Users\Nemanja\Desktop\Projekat\Application\obj\Debug\netcoreapp2.2\Application.csproj.CopyComplete
+C:\Users\Nemanja\Desktop\Projekat\Application\obj\Debug\netcoreapp2.2\Application.dll
+C:\Users\Nemanja\Desktop\Projekat\Application\obj\Debug\netcoreapp2.2\Application.pdb
+C:\Users\Nemanja\Desktop\Projekat\Application\bin\Debug\netcoreapp2.2\Domain.dll
+C:\Users\Nemanja\Desktop\Projekat\Application\bin\Debug\netcoreapp2.2\Domain.pdb
